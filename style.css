@@ -11,7 +11,7 @@ body
     height: 100%;
     z-index: 9;
 }
-#bio {
+#campus {
     font-family: 'Cinzel Decorative', cursive;
     padding: 50px;
     text-align: center;
@@ -51,4 +51,8 @@ h1 {
 input
 {
     background: grey;
+}
+img {
+    width: 100px;
+    height: 100px;
 }
